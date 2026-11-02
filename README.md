@@ -10,4 +10,5 @@ A simple webpage that displays "Hello World!" using basic HTML structure.
 - `README.md`
 
 ### Screenshots
-Screenshots will be added here.
+
+![Project Screenshot](screenshots/01.png)
