@@ -48,6 +48,6 @@ To demonstrate the fundamental setup of a valid HTML5 document structure, includ
 - Expected output reference: Clean default browser rendering of `Hello World!`.
 
 ## 9. Deployment Information
-- **GitHub Repository:** Private repository `hello-world-html-task`
+- **GitHub Repository:** [hello-world-html-task](https://github.com/apandey-dev/hello-world-html-task) (Private)
 - **Deployment Platform:** Vercel
 - **Live URL:** To be updated after deployment
